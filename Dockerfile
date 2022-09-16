@@ -1,4 +1,4 @@
-FROM mariadb:10.8.3
+FROM mariadb:10.9.2
 
 LABEL org.opencontainers.image.title="wordpress-mariadb" \
       org.opencontainers.image.description="mariadb docker image for my WordPress stack" \
