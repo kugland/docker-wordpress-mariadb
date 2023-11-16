@@ -5,7 +5,7 @@
   "packageRules": [
     {
       "matchPackageNames": [
-        "mariadb"
+        "docker.io/library/mariadb"
       ],
       "allowedVersions": "<=10.99"
     }
