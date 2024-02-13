@@ -1,4 +1,4 @@
-FROM docker.io/library/mariadb:10.11.6
+FROM docker.io/library/mariadb:10.11.7
 
 LABEL org.opencontainers.image.title="wordpress-mariadb" \
       org.opencontainers.image.description="mariadb docker image for my WordPress stack" \
